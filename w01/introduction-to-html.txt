@@ -1,0 +1,12 @@
+AN INTRODUCTION TO html
+
+Overview:
+HTML stands for Hypertext Markup language and is one of the three core technologies of 
+the web (html, css, and javascript). Hypertext refer to the way we can plae hypertext links
+in our document that allows our users to move from one page to another. Markup is a set of symbols or codes
+for displaying content in the internet. Web browsers use HTML markup and content to reder pages.
+
+"HTML (HyperText Markup Language) is the most basic building block of the web. It defines the meaning and
+structure of web content. Other technologies besides HTML are generally used to describe a web page's 
+appearance/presentation (CSS) or functionality/behavior (javascript)." - MDN 
+
