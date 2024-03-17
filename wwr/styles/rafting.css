@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=Yellowtail&display=swap'); 
+
+:root {
+    --primary-color: #232c33;
+    --secondary-color: #dadff7;
+    --accent1-color: #a0c1d1;
+    --accent2-color: #b5b2c2;
+
+    --heading-font: 'yellowtail', serif;
+    --paragraph-font: 'Gabriela', serif;
+
+    --nav-background-color: #232c23;
+    --nav-link-color: #dadff7;
+    --nav-hover-link-color: #a0c1d1;
+    --nav-hover-background-color: #b5b2c2;
+
+}
+
+h1, h2 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+}
+
+p {
+    font-family: var(--paragraph-font);
+    color: var(--primary-color);
+}
+
+.social-media {
+    text-decoration: none;
+}
+
+.hero{
+    position: relative;
+}
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.hero h1 {
+    position: absolute;
+    top: 1%;
+    }
+
+.hero article {
+    position: absolute;
+    background-color: white;
+    opacity: 75%;
+    padding: auto;;
+    width: 80%;
+    max-width: 600px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hero article img {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
