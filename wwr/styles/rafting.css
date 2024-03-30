@@ -152,3 +152,45 @@ figcaption {
     width: 30px;
     height: auto;
 }
+
+.company-info {
+    margin-bottom: 30px;
+}
+
+.map-container {
+    margin-top: 10px;
+}
+
+.team-members {
+    margin-bottom: 30px;
+}
+
+.member {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.contact-form {
+    margin-bottom: 30px;
+}
+
+.contact-form label {
+    display: inline-block;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.contact-form input[type="radio"] {
+    margin-bottom: 5px;
+}
+
+.contact-form input[type="checkbox"] {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
