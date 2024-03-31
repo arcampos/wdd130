@@ -155,6 +155,7 @@ figcaption {
 
 .company-info {
     margin-bottom: 30px;
+    background-color: var(--accent2-color);
 }
 
 .map-container {
@@ -163,6 +164,7 @@ figcaption {
 
 .team-members {
     margin-bottom: 30px;
+    background-color: var(--accent1-color);
 }
 
 .member {
@@ -173,6 +175,7 @@ figcaption {
 
 .contact-form {
     margin-bottom: 30px;
+    background-color: var(--secondary-color);
 }
 
 .contact-form label {
@@ -194,3 +197,4 @@ figcaption {
     margin-top: 10px;
     margin-bottom: 20px;
 }
+
