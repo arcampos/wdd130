@@ -134,6 +134,7 @@ figcaption {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    margin-top: 20px;
 }
 
 .copy {
@@ -198,3 +199,54 @@ figcaption {
     margin-bottom: 20px;
 }
 
+.trip-info {
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.trip {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.trip img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.trip-details {
+    flex: 1;
+}
+
+.trip-info article {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.trip-info article h3 {
+    margin-top: 0;
+}
+
+.trip-info article p {
+    margin: 10px 0;
+}
+
+.btn-book {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-book:hover {
+    background-color: #0056b3;
+}
